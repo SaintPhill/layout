@@ -1,0 +1,18 @@
+.header {
+  padding-top: 4rem;
+}
+
+.bar_wrapper {
+  display: flex;
+  background-color: black;
+}
+
+.bar_wrapper .bar_title {
+  text-decoration: none;
+}
+
+.fixed-bar {
+  z-index: 100000000;
+  position: fixed;
+  top: 0;
+}
